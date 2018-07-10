@@ -1,0 +1,17 @@
+{
+  "name": "analyze-frontend",
+  "version": "0.0.1",
+  "description": "Describe result of analyzation",
+  "main": "index.js",
+  "repository": "https://github.com/tkit/splatoon2-analyze.git",
+  "license": "MIT",
+  "devDependencies": {
+    "css-loader": "^1.0.0",
+    "ts-loader": "^4.4.2",
+    "typescript": "^2.9.2",
+    "vue": "^2.5.16",
+    "vue-loader": "^15.2.4",
+    "vue-template-compiler": "^2.5.16",
+    "webpack": "^4.15.1"
+  }
+}

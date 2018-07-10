@@ -4,3 +4,7 @@ stage_list/*.json
 .DS_store
 collect_splatoon_data/results/*.json
 collect_splatoon_data/__pycache__
+
+# frontend
+node_modules/
+
